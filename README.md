@@ -2,6 +2,36 @@
 
 Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
 
+## Installation
+
+To install the project dependencies, run:
+
+```sh
+npm install
+```
+
+Or if you prefer using pnpm:
+
+```sh
+pnpm install
+```
+
+Or yarn:
+
+```sh
+yarn
+```
+
+## Getting Started
+
+After installing dependencies, you can start the development server:
+
+```sh
+npm run dev
+```
+
+This will start a local development server at `http://localhost:5173` (or the next available port).
+
 ## Creating a project
 
 If you're seeing this, you've probably already done this step. Congrats!
